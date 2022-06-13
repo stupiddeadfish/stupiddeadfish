@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stupiddeadfish
 - 👀 I’m interested in generative art 
-- 🌱 I’m currently learning creative coding 
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
